@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopServer", "ShopServer\ShopServer.csproj", "{94DB1F51-4E25-4A35-B45D-B8BE9EF6E006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopServer", "ShopServer\ShopServer.csproj", "{94DB1F51-4E25-4A35-B45D-B8BE9EF6E006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneShopClient", "PhoneShopClient\PhoneShopClient.csproj", "{4A67D7C1-0C23-4B5F-B174-6E4A2709D6A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneShopClient", "PhoneShopClient\PhoneShopClient.csproj", "{4A67D7C1-0C23-4B5F-B174-6E4A2709D6A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneShopShatedLibrary", "PhoneShopShatedLibrary\PhoneShopShatedLibrary.csproj", "{381162D3-DD87-43D3-A6A5-C9A5B9613163}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneShopShatedLibrary", "PhoneShopShatedLibrary\PhoneShopShatedLibrary.csproj", "{381162D3-DD87-43D3-A6A5-C9A5B9613163}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
